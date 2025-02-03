@@ -26,9 +26,10 @@
 3. 双击启动程序。
 
 ### 如何使用源代码
-1. 确保您的计算机已经安装了`Python`语言环境，如果未安装点击 [Python下载](https://www.python.org/) 进行安装。
-2. 确保安装了`pip`，如果未安装请参考[官方安装指南](https://pip.pypa.io/en/stable/installation/)进行安装。
-3. 下载依赖库，打开`cmd`依次键入以下代码：
+1. 下载完源代码文件后解压缩，解压游戏根目录里的`block.zip`（解压到当前文件夹）
+2. 确保您的计算机已经安装了`Python`语言环境，如果未安装点击 [Python下载](https://www.python.org/) 进行安装。
+3. 确保安装了`pip`，如果未安装请参考 [官方安装指南](https://pip.pypa.io/en/stable/installation/) 进行安装。
+4. 下载依赖库，打开`cmd`依次键入以下代码
  ```python
 	 pip install pygame
 	 pip install pygame.freetype
