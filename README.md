@@ -1,4 +1,6 @@
 # <div align="center">Minecraft 2D</div>
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSRInternet-Studio%2FMinecraft-2D-for-LittleDream.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSRInternet-Studio%2FMinecraft-2D-for-LittleDream?ref=badge_shield)
+
 
 <p align="center">
  <img src="https://img.shields.io/badge/开发语言-Python-coral" alt="语言">
@@ -176,3 +178,7 @@
 > *4 ------ 玻璃的声音*
 
 > *5 ------ 块的声音*
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSRInternet-Studio%2FMinecraft-2D-for-LittleDream.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSRInternet-Studio%2FMinecraft-2D-for-LittleDream?ref=badge_large)
