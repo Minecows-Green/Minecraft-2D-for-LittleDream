@@ -176,3 +176,10 @@
 > *4 ------ 玻璃的声音*
 
 > *5 ------ 块的声音*
+
+<div align="center">
+<br>
+<img src='https://github.com/user-attachments/assets/5dfe6517-b6d3-4fc3-ab9f-40132ee8316e' alt='sr-ico' height="200" width="200"></img>
+<img src='https://github.com/user-attachments/assets/2a0c7c1b-34f4-4b8c-9f85-55b02eb4437a' alt='sr-ico' height="200" width="200"></img></a>
+	
+<h2>Made by 思锐工作室<h2/>
